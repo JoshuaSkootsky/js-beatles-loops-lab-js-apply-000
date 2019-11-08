@@ -12,7 +12,7 @@ function theBeatlesPlay(musics, instrums) {
   return arr;
 }
 
-function johnLennonFacts(arrFacts) {
+function johnLennonFacts(arr) {
   var i = 0;
   while( i < arr.length) {
     arr[i] = arr[i] + "!!!";
